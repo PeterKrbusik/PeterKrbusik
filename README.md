@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterKrbusik
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on mobile apps for Android.
+- 👀 I’m interested in learning and developing new AI tools
+- 🌱 I’m currently learning AI in general
+- 💞️ I’m looking to share knowledge.
 - 📫 How to reach me krbusik@hotmail.com
 
 <!---
